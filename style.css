@@ -1,0 +1,27 @@
+body {
+  margin: 0 auto;
+  background-color: #268ea6;
+}
+
+#bot-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: #4f29a6;
+}
+
+h4 {
+  color: #eee;
+}
+
+button {
+  width: 70px;
+  height: 70px;
+  background-color: #f2762e;
+  border-radius: 100%;
+  border: none;
+}
